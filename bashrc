@@ -175,3 +175,5 @@ export DEBFULLNAME
 alias dquilt="quilt --quiltrc=${HOME}/.quiltrc-dpkg"
 
 export JAVA_HOME="/opt/java"
+
+complete -D -o default
